@@ -2,5 +2,5 @@
 Created this website for Software Engineering.
 
 # Credits
--Eric Pogue
--ChatGPT
+- Eric Pogue
+- ChatGPT
